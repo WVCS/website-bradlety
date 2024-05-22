@@ -1,3 +1,30 @@
+h1 {
+  color:navy;
+    font-size: 60px;
+  text-align: center;
+    text-decoration: overline underline;
+  text-decoration-color: black;
+    text-decoration-style: wavy;
+       text-shadow: 3px 3px 5px white;
+}
+
+
+body{
+  background-color: antiquewhite;
+}
+
+img {
+  width:25%;
+    border-radius: 8px;
+  border: black 7px;
+}
+
+img:hover {
+  width: 50%;
+}
+
+
+
 nav {
   list-style-type: none;
   position:fixed;
